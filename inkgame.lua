@@ -1,8 +1,7 @@
 --[[
 	Credits:
 	Inf Yield (a.k.a. Infinite Yield)
-    mspaint v2 - code organisation
-	Please notify me if you need credits
+    Rework by skaneexx
 ]]
 
 if not getgenv().shared then
