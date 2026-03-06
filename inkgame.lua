@@ -56,17 +56,49 @@
                                      ......                                                          
 
 
- ____            _       _                                 _                 
-/ ___|  ___ _ __(_)_ __ | |_   _ __ _____      _____  _ __| | __             
-\___ \ / __| '__| | '_ \| __| | '__/ _ \ \ /\ / / _ \| '__| |/ /             
- ___) | (__| |  | | |_) | |_  | | |  __/\ V  V / (_) | |  |   <              
-|____/ \___|_|  |_| .__/ \__| |_|  \___| \_/\_/ \___/|_|  |_|\_\             
- _                |_|  _   _  ____ _____ _ __        _____ _   _  ____ ____  
-| |__  _   _     / \  | \ | |/ ___| ____| |\ \      / /_ _| \ | |/ ___/ ___| 
-| '_ \| | | |   / _ \ |  \| | |  _|  _| | | \ \ /\ / / | ||  \| | |  _\___ \ 
-| |_) | |_| |  / ___ \| |\  | |_| | |___| |__\ V  V /  | || |\  | |_| |___) |
-|_.__/ \__, | /_/   \_\_| \_|\____|_____|_____\_/\_/  |___|_| \_|\____|____/ 
-       |___/                                                                 
+  ____                                                                                              ___       
+ 6MMMMb\                 68b                                                                        `MM       
+6M'    `                 Y89            /                                                            MM       
+MM         ____  ___  __ ___ __ ____   /M           ___  __   ____  ____    _    ___  _____  ___  __ MM   __  
+YM.       6MMMMb.`MM 6MM `MM `M6MMMMb /MMMMM        `MM 6MM  6MMMMb `MM(   ,M.   )M' 6MMMMMb `MM 6MM MM   d'  
+ YMMMMb  6M'   Mb MM69 "  MM  MM'  `Mb MM            MM69 " 6M'  `Mb `Mb   dMb   d' 6M'   `Mb MM69 " MM  d'   
+     `Mb MM    `' MM'     MM  MM    MM MM            MM'    MM    MM  YM. ,PYM. ,P  MM     MM MM'    MM d'    
+      MM MM       MM      MM  MM    MM MM            MM     MMMMMMMM  `Mb d'`Mb d'  MM     MM MM     MMdM.    
+      MM MM       MM      MM  MM    MM MM            MM     MM         YM,P  YM,P   MM     MM MM     MMPYM.   
+L    ,M9 YM.   d9 MM      MM  MM.  ,M9 YM.  ,        MM     YM    d9   `MM'  `MM'   YM.   ,M9 MM     MM  YM.  
+MYMMMM9   YMMMM9 _MM_    _MM_ MMYMMM9   YMMM9       _MM_     YMMMM9     YP    YP     YMMMMM9 _MM_   _MM_  YM._
+                              MM                                                                              
+                              MM                                                                              
+                             _MM_                                                                             
+                                                                                                              
+                                                                                                              
+___                                                                                                           
+ MM                                                                                                           
+ MM                                                                                                           
+ MM____  ____    ___                                                                                          
+ MMMMMMb `MM(    )M'                                                                                          
+ MM'  `Mb `Mb    d'                                                                                           
+ MM    MM  YM.  ,P                                                                                            
+ MM    MM   MM  M                                                                                             
+ MM    MM   `Mbd'                                                                                             
+ MM.  ,M9    YMP                                                                                              
+_MYMMMM9      M                                                                                               
+             d'                                                                                               
+         (8),P                                                                                                
+          YMM                                                                                                 
+                                                                                                              
+                                                                                                              
+       _     ___      ___   ____   __________ ____ ____              ___ ______      ___   ____     ____      
+      dM.    `MM\     `M'  6MMMMb/ `MMMMMMMMM `MM' `Mb(      db      )d' `MM`MM\     `M'  6MMMMb/  6MMMMb\    
+     ,MMb     MMM\     M  8P    YM  MM      \  MM   YM.     ,PM.     ,P   MM MMM\     M  8P    YM 6M'    `    
+     d'YM.    M\MM\    M 6M      Y  MM         MM   `Mb     d'Mb     d'   MM M\MM\    M 6M      Y MM          
+    ,P `Mb    M \MM\   M MM         MM    ,    MM    YM.   ,P YM.   ,P    MM M \MM\   M MM        YM.         
+    d'  YM.   M  \MM\  M MM         MMMMMMM    MM    `Mb   d' `Mb   d'    MM M  \MM\  M MM         YMMMMb     
+   ,P   `Mb   M   \MM\ M MM     ___ MM    `    MM     YM. ,P   YM. ,P     MM M   \MM\ M MM     ___     `Mb    
+   d'    YM.  M    \MM\M MM     `M' MM         MM     `Mb d'   `Mb d'     MM M    \MM\M MM     `M'      MM    
+  ,MMMMMMMMb  M     \MMM YM      M  MM         MM      YM,P     YM,P      MM M     \MMM YM      M       MM    
+  d'      YM. M      \MM  8b    d9  MM      /  MM    / `MM'     `MM'      MM M      \MM  8b    d9 L    ,M9    
+_dM_     _dMM_M_      \M   YMMMM9  _MMMMMMMMM _MMMMMMM  YP       YP      _MM_M_      \M   YMMMM9  MYMMMM9     
 
 Telegram: @SkaneexxWare
 Discord: discord.gg/jUuYn6gRjk
