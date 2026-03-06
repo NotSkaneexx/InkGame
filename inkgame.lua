@@ -56,49 +56,36 @@
                                      ......                                                          
 
 
-  ____                                                                                              ___       
- 6MMMMb\                 68b                                                                        `MM       
-6M'    `                 Y89            /                                                            MM       
-MM         ____  ___  __ ___ __ ____   /M           ___  __   ____  ____    _    ___  _____  ___  __ MM   __  
-YM.       6MMMMb.`MM 6MM `MM `M6MMMMb /MMMMM        `MM 6MM  6MMMMb `MM(   ,M.   )M' 6MMMMMb `MM 6MM MM   d'  
- YMMMMb  6M'   Mb MM69 "  MM  MM'  `Mb MM            MM69 " 6M'  `Mb `Mb   dMb   d' 6M'   `Mb MM69 " MM  d'   
-     `Mb MM    `' MM'     MM  MM    MM MM            MM'    MM    MM  YM. ,PYM. ,P  MM     MM MM'    MM d'    
-      MM MM       MM      MM  MM    MM MM            MM     MMMMMMMM  `Mb d'`Mb d'  MM     MM MM     MMdM.    
-      MM MM       MM      MM  MM    MM MM            MM     MM         YM,P  YM,P   MM     MM MM     MMPYM.   
-L    ,M9 YM.   d9 MM      MM  MM.  ,M9 YM.  ,        MM     YM    d9   `MM'  `MM'   YM.   ,M9 MM     MM  YM.  
-MYMMMM9   YMMMM9 _MM_    _MM_ MMYMMM9   YMMM9       _MM_     YMMMM9     YP    YP     YMMMMM9 _MM_   _MM_  YM._
-                              MM                                                                              
-                              MM                                                                              
-                             _MM_                                                                             
-                                                                                                              
-                                                                                                              
-___                                                                                                           
- MM                                                                                                           
- MM                                                                                                           
- MM____  ____    ___                                                                                          
- MMMMMMb `MM(    )M'                                                                                          
- MM'  `Mb `Mb    d'                                                                                           
- MM    MM  YM.  ,P                                                                                            
- MM    MM   MM  M                                                                                             
- MM    MM   `Mbd'                                                                                             
- MM.  ,M9    YMP                                                                                              
-_MYMMMM9      M                                                                                               
-             d'                                                                                               
-         (8),P                                                                                                
-          YMM                                                                                                 
-                                                                                                              
-                                                                                                              
-       _     ___      ___   ____   __________ ____ ____              ___ ______      ___   ____     ____      
-      dM.    `MM\     `M'  6MMMMb/ `MMMMMMMMM `MM' `Mb(      db      )d' `MM`MM\     `M'  6MMMMb/  6MMMMb\    
-     ,MMb     MMM\     M  8P    YM  MM      \  MM   YM.     ,PM.     ,P   MM MMM\     M  8P    YM 6M'    `    
-     d'YM.    M\MM\    M 6M      Y  MM         MM   `Mb     d'Mb     d'   MM M\MM\    M 6M      Y MM          
-    ,P `Mb    M \MM\   M MM         MM    ,    MM    YM.   ,P YM.   ,P    MM M \MM\   M MM        YM.         
-    d'  YM.   M  \MM\  M MM         MMMMMMM    MM    `Mb   d' `Mb   d'    MM M  \MM\  M MM         YMMMMb     
-   ,P   `Mb   M   \MM\ M MM     ___ MM    `    MM     YM. ,P   YM. ,P     MM M   \MM\ M MM     ___     `Mb    
-   d'    YM.  M    \MM\M MM     `M' MM         MM     `Mb d'   `Mb d'     MM M    \MM\M MM     `M'      MM    
-  ,MMMMMMMMb  M     \MMM YM      M  MM         MM      YM,P     YM,P      MM M     \MMM YM      M       MM    
-  d'      YM. M      \MM  8b    d9  MM      /  MM    / `MM'     `MM'      MM M      \MM  8b    d9 L    ,M9    
-_dM_     _dMM_M_      \M   YMMMM9  _MMMMMMMMM _MMMMMMM  YP       YP      _MM_M_      \M   YMMMM9  MYMMMM9     
+ .d8888b.                   d8b          888                                                       888         
+d88P  Y88b                  Y8P          888                                                       888         
+Y88b.                                    888                                                       888         
+ "Y888b.    .d8888b 888d888 888 88888b.  888888     888d888 .d88b.  888  888  888  .d88b.  888d888 888  888    
+    "Y88b. d88P"    888P"   888 888 "88b 888        888P"  d8P  Y8b 888  888  888 d88""88b 888P"   888 .88P    
+      "888 888      888     888 888  888 888        888    88888888 888  888  888 888  888 888     888888K     
+Y88b  d88P Y88b.    888     888 888 d88P Y88b.      888    Y8b.     Y88b 888 d88P Y88..88P 888     888 "88b    
+ "Y8888P"   "Y8888P 888     888 88888P"   "Y888     888     "Y8888   "Y8888888P"   "Y88P"  888     888  888    
+                                888                                                                            
+                                888                                                                            
+                                888                                                                            
+888                                                                                                            
+888                                                                                                            
+888                                                                                                            
+88888b.  888  888                                                                                              
+888 "88b 888  888                                                                                              
+888  888 888  888                                                                                              
+888 d88P Y88b 888                                                                                              
+88888P"   "Y88888                                                                                              
+              888                                                                                              
+         Y8b d88P                                                                                              
+          "Y88P"                                                                                               
+       d8888 888b    888  .d8888b.  8888888888 888      888       888 8888888 888b    888  .d8888b.   .d8888b. 
+      d88888 8888b   888 d88P  Y88b 888        888      888   o   888   888   8888b   888 d88P  Y88b d88P  Y88b
+     d88P888 88888b  888 888    888 888        888      888  d8b  888   888   88888b  888 888    888 Y88b.     
+    d88P 888 888Y88b 888 888        8888888    888      888 d888b 888   888   888Y88b 888 888         "Y888b.  
+   d88P  888 888 Y88b888 888  88888 888        888      888d88888b888   888   888 Y88b888 888  88888     "Y88b.
+  d88P   888 888  Y88888 888    888 888        888      88888P Y88888   888   888  Y88888 888    888       "888
+ d8888888888 888   Y8888 Y88b  d88P 888        888      8888P   Y8888   888   888   Y8888 Y88b  d88P Y88b  d88P
+d88P     888 888    Y888  "Y8888P88 8888888888 88888888 888P     Y888 8888888 888    Y888  "Y8888P88  "Y8888P" 
 
 Telegram: @SkaneexxWare
 Discord: discord.gg/jUuYn6gRjk
