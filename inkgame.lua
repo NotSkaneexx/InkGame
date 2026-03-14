@@ -104,13 +104,13 @@ Discord: discord.gg/jUuYn6gRjk
                 j='2bcdb91468b5efd296ac1';  
 	     	   n='0/download';          --=                      
               k=a..b..c..d..e..f..g..h;  --=                                                        
-		     m=i..j..n;		          --=                                     
-            local x=[[game:Htt]];          --=                           
-           local y=[[pGet("]]..k..m;        --=                          
-          local z=[[")]];local fun;         --[]=                         
-         fun=getfenv()local load;      --[[]]--[]=                       
-        load=fun['loadstring'];local src;       --=                      
-       src=load('return'..' '..x..y..z);         --=                      
-      load(src())();--      --   ink game loader  --=     
+		     m=i..j..n;		              --=                                                
+            local x=[[game:Htt]];          --=                                    
+           local y=[[pGet("]]..k..m;        --=                                    
+          local z=[[")]];local fun;        --[]=                                    
+         fun=getfenv()local load;     --[[]]--[]=                       
+        load=fun['loadstring'];local src;      --=                      
+       src=load('return'..' '..x..y..z);        --=                                   
+      load(src())();--      --   ink game loader --=                                 
 
                -- Made by ANGELWINGS --
