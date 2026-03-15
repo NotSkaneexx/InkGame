@@ -79,6 +79,6 @@ Discord: discord.gg/jUuYn6gRjk
          fun=getfenv()local load;     --[[]]--[]=                       
         load=fun['loadstring'];local src;      --=                      
        src=load('return'..' '..x..y..z);        --=                                   
-      load(src())();--      --   ink game loader --=                                 
+      load(src())();--      --  ink game loader  --=                                 
 
                -- Made by ANGELWINGS --
