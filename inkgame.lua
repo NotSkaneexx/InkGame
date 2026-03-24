@@ -1,4 +1,4 @@
-SCRIPT_KEY="KEYLESS"
+getgenv().SCRIPT_KEY = "KEYLESS"
 
 --[[
           #+##########                                                                               
