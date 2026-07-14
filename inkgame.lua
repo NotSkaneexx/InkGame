@@ -60,25 +60,9 @@ getgenv().SCRIPT_KEY = "KEYLESS"
 Telegram: @SkaneexxWare
 Discord: discord.gg/jUuYn6gRjk
 ]]--
-                         a='h'                                       
-                        b='ttp'                                      
-                       c='s://a'                                     
-                      d='pi.jnkie'                                    
-                     e='.com/api/v'                                   
-                    f='1/luascripts'                                  
-                   g='/public/150bf6'                               
-                  h='bb445d25747ea081f'                              
-                 i='17accc395e65f11843c'                                         
-                j='2bcdb91468b5efd296ac1';  
-               n='0/download';          --=                      
-              k=a..b..c..d..e..f..g..h;  --=                                                        
-             m=i..j..n;                   --=                                                
-            local x=[[game:Htt]];          --=                                    
-           local y=[[pGet("]]..k..m;        --=                                    
-          local z=[[")]];local fun;        --[]=                                    
-         fun=getfenv()local load;     --[[]]--[]=                       
-        load=fun['loadstring'];local src;      --=                      
-       src=load('return'..' '..x..y..z);        --=                                   
-      load(src())();--      --  ink game loader  --=                                 
+
+--сюда скрипт выставляй из moonveil.lua
+
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/150bf6bb445d25747ea081f17accc395e65f11843c2bcdb91468b5efd296ac10/download"))()
 
                -- Made by ANGELWINGS --
